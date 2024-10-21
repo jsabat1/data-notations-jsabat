@@ -9,4 +9,13 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+	<smartphone brand="Apple" model="13" releaseYear="2021">
+        <specs>
+            <screenSize unit="inch">6.1</screenSize>
+            <batteryCapacity unit="mAh">3240</batteryCapacity>
+            <storage unit="GB">256</storage>
+            <camera unit="MP">12</camera>
+        </specs>
+        <price currency="PLN">2400</price>
+    </smartphone>
 </smartphones>

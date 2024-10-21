@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport-types>
+    <type>
+        <name>Car</name>
+        <properties>
+            <brand>Toyota</brand>
+            <model>Aygo</model>
+        </properties>
+    </type>
+    <type>
+        <name>Bus</name>
+        <properties>
+            <brand>Solaris</brand>
+            <bustype>Hybrid</bustype>
+        </properties>
+    </type>
+    <type>
+        <name>Bike</name>
+        <properties>
+            <brand>Giant</brand>
+            <biketype>mountain</biketype>
+        </properties>
+    </type>
+</transport-types>

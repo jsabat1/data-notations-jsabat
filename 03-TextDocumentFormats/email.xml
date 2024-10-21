@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+	<sender>
+		<name>John Doe</name>
+		<adress>jdoe@hotmail.com</adress>
+	</sender>
+	<recipient>
+		<name>Jan Kowalski</name>
+		<adress>jkowalski@hotmail.com</adress>
+	</recipient>
+	<content>
+		<text>Example of email text</text>
+	</content>
+</email>
